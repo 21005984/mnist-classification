@@ -147,29 +147,3 @@ print(x_single_prediction)
 
 ## RESULT
 Thus, a convolutional deep neural network for digit classification is developed and the response for scanned handwritten images is verified.
-
-## OUTPUT
-
-### Training Loss, Validation Loss Vs Iteration Plot
-![graph](https://user-images.githubusercontent.com/75235402/191753061-13c45e21-1820-4c1a-9ef4-b2911ec590ec.png)
-
-
-
-### Classification Report
-![class](https://user-images.githubusercontent.com/75235402/191753339-992b9919-9e62-44dc-8ccd-d373b25e6c4a.png)
-
-
-
-### Confusion Matrix
-![mat](https://user-images.githubusercontent.com/75235402/191755422-eb81771a-599c-460e-abab-fc3fe189607a.png)
-
-
-### New Sample Data Prediction
-![8](https://user-images.githubusercontent.com/75235402/191756148-9f4a575f-c876-4cd9-adb1-dccc3db8b648.png)
-
-![8a](https://user-images.githubusercontent.com/75235402/191756352-81feb304-252c-4a48-8d67-21d4be951954.png)
-
-
-## RESULT
-Thus, a convolutional deep neural network for digit classification is developed and the response for scanned handwritten images is verified.
-Thus, a convolutional deep neural network for digit classification is developed and the response for scanned handwritten images is verified.
